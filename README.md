@@ -1,2 +1,2 @@
 # remoteIPRedirect
-js获取ip判断区域然后跳转，利用百度api实现跨域
+js获取ip判断省份城市区域然后跳转，利用百度api实现跨域
